@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/chi980/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chi980&show_icons=true&theme=catppuccin_latte)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
