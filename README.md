@@ -1,10 +1,9 @@
-### Hi there 👋
-
 <h1> Hi there 👋 </h1>
-
-<hr>
 Welcome to my github!
 
+<h3>Things I code with</h3>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <!--
 **chi980/chi980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
