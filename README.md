@@ -1,13 +1,23 @@
 <h1> Hi there 👋 </h1>
 Welcome to my github!
 
-<h3>My Tech Stack</h3>
+I'm Mieun Choi, who want to be a <strong>backend developer</strong>.
+
+<h3>✏️ Once I've Used</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+<h3> 🛠️ Tools 🛠️ </h3>
+visualstudiocode 
+<a href = "https://github.com/Hun-Se"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+eclipse, intellij
+ <a href = "https://guttural-eyebrow-89d.notion.site/78c2a1e3c5a24171af843e63e5407b33"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> 
+
+
 <!--
 **chi980/chi980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +32,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chi980)](https://solved.ac/chi980/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chi980)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chi980&show_icons=true&theme=catppuccin_latte)
+
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chi980)](https://solved.ac/chi980/)
+<img src="http://mazandi.herokuapp.com/api?handle=chi980&theme=warm"/>
+
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchi980&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
