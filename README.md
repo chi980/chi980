@@ -26,9 +26,12 @@ I'm Mieun Choi, who want to be a <strong>backend developer</strong>.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+<!--
 <h3> 🛠️ Tools 🛠️ </h3>
 visualstudiocode 
 eclipse, intellij
+-->
+
 </a> 
 
 <h3> 🌱 About Me </h3>
