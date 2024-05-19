@@ -46,6 +46,7 @@ eclipse, intellij
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chi980)](https://solved.ac/chi980/)
 <img src="http://mazandi.herokuapp.com/api?handle=chi980&theme=warm"/>
+[![코드트리|실력진단-chi980](https://banner.codetree.ai/v1/banner/chi980)](https://www.codetree.ai/profiles/chi980)
 
 <h3> ✨ Dev log </h3>
 
