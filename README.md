@@ -52,7 +52,6 @@ eclipse, intellij
 <h3> ✨ Dev log </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chi980&layout=donut)](https://github.com/chi980/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chi980&show_icons=true)
 
 
 
