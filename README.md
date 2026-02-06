@@ -51,10 +51,6 @@ eclipse, intellij
 -->
 <h3> ✨ Dev log </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chi980&layout=donut)](https://github.com/chi980/github-readme-stats)
-
-
-
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 <div align="center">
 
